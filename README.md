@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 ### PS
 - Baekjoon: https://www.acmicpc.net/user/ccoco
----
 [![http://mazassumnida.wtf/api/generate_badge?boj=ccoco](http://mazassumnida.wtf/api/generate_badge?boj=ccoco)](https://solved.ac/ccoco)
 👆🏻 이거 개발한 사람!
 
