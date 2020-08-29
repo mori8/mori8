@@ -6,9 +6,9 @@
 - </> Baekjoon: https://www.acmicpc.net/user/ccoco
 
 #### Activity
-- Vice President of [SOLUX](https://solux.dev)
-- Member of ALGOS(Sookmyung ICPC Club)
-- Organizer of ICPC Sinchon 💚
+- 🐧 Vice President of [SOLUX](https://solux.dev)
+- 🎖 Member of ALGOS(Sookmyung ICPC Club)
+- 💚 Organizer of ICPC Sinchon
 
 [![http://mazassumnida.wtf/api/generate_badge?boj=ccoco](http://mazassumnida.wtf/api/generate_badge)](https://solved.ac/ccoco)
 👈🏻 이거 개발한 사람!
