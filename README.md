@@ -10,6 +10,12 @@
 - 🎖 Member of ALGOS(Sookmyung ICPC Club)
 - 💚 Organizer of ICPC Sinchon
 
+#### What I Like
+- ☕️ COFFEE!
+- 🦋 Taylor Swift's songs
+- 🖍 Drawing
+
+
 [![http://mazassumnida.wtf/api/generate_badge?boj=ccoco](http://mazassumnida.wtf/api/generate_badge)](https://solved.ac/ccoco)
 👈🏻 이거 개발한 사람!
 
