@@ -16,7 +16,7 @@
 - 🖍 Drawing
 
 
-[![http://mazassumnida.wtf/api/generate_badge?boj=ccoco](http://mazassumnida.wtf/api/generate_badge)](https://solved.ac/ccoco)
+[![http://mazassumnida.wtf/api/v2/generate_badge?boj=ccoco](http://mazassumnida.wtf/api/v2/generate_badge)](https://solved.ac/ccoco)
 👈🏻 이거 개발한 사람!
 
 ![mori8's github stats](https://github-readme-stats.vercel.app/api?username=mori8&show_icons=true)
