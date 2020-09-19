@@ -9,6 +9,7 @@
 - 🐧 Vice President of [SOLUX](https://solux.dev)
 - 🎖 Member of ALGOS(Sookmyung ICPC Club)
 - 💚 Organizer of ICPC Sinchon
+- ❄️ DSC Sookmyung Core Member
 
 #### What I Like
 - ☕️ COFFEE!
