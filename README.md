@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning `React`, `Python`, `Algorithm`
 - 📫 How to reach me: kaithape@gmail.com
 - ⚡ Fun fact: 왼손잡이다!
-- </> Baekjoon: https://www.acmicpc.net/user/ccoco
 
 #### Activity
 
