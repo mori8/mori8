@@ -8,7 +8,7 @@
 
 #### Activity
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ccoco&cache=12315">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ccoco">
 
 - 🐧 Vice President of [SOLUX](https://sm-solux.github.io/)(2020.3 ~ )
 - 🎖 Member of ALGOS(Sookmyung ICPC Club)(2020.4 ~ )
