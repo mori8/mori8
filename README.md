@@ -13,6 +13,12 @@
 - 💚 Organizer of [ICPC Sinchon](http://icpc-sinchon.github.io/) (2020.7 ~ )
 - ❄️ [DSC Sookmyung](https://www.facebook.com/dscsookmyung/) Core Member (2020.9 ~ )
 
+### Projects
+- [Mazassumnida](https:/github.com/mazassumnida/mazassumnida)
+  / solved.ac 프로필 카드 호스팅 서비스
+- [Solchive](https:/github.com/mori8/solchive)
+  / 솔룩스에서 진행한 모든 프로젝트를 아카이빙하는 웹사이트
+
 <hr>
 
 ### My Github Stats
@@ -21,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mori8&theme=react&show_icons=true" height="200px">
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori8&theme=react&exclude_repo=assignment&layout=compact" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori8&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="200px">
 </a>
 
 ### Solved.ac Tier
