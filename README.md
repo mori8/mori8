@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mori8&theme=react&show_icons=true" height="200px">
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori8&theme=react&exclude_repo=CoronaCrawler,baekjoon_algorithm_python,Jagi,assignment" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori8&theme=react&exclude_repo=assignment&layout=compact" height="200px">
 </a>
 
 ### Solved.ac Tier
