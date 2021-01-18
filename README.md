@@ -24,10 +24,10 @@
 ### My Github Stats
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=mori8&theme=react&show_icons=true" height="190px">
+  <img src="https://github-readme-stats.vercel.app/api?username=mori8&theme=react&show_icons=true" height="180px">
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori8&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="190px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mori8&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
 </a>
 
 ### Solved.ac Tier
