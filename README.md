@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning `React`, `Clean code`, `UX/UI Design`
 - 📫 How to reach me: kaithape@gmail.com
 - 🧐 My personal blog: https://cocosy.tistory.com
+- I'm majoring in Computer Science, at Sookmyung Women's University
 
 ### Activity
 
