@@ -14,9 +14,9 @@
 - ❄️ [DSC Sookmyung](https://www.facebook.com/dscsookmyung/) Core Member (2020.9 ~ )
 
 ### Projects
-- [Mazassumnida](https:/github.com/mazassumnida/mazassumnida)
+- [Mazassumnida](https://github.com/mazassumnida/mazassumnida)
   / solved.ac 프로필 카드 호스팅 서비스
-- [Solchive](https:/github.com/mori8/solchive)
+- [Solchive](https://github.com/mori8/solchive)
   / 솔룩스에서 진행한 모든 프로젝트를 아카이빙하는 웹사이트
 
 <hr>
