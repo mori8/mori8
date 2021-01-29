@@ -12,7 +12,7 @@
 
 - 🐧 Vice President of [SOLUX](https://sm-solux.github.io/) (2020.3 ~ )
 - 🎖 Member of ALGOS(Sookmyung ICPC Club) (2020.4 ~ )
-- 💚 Organizer of [ICPC Sinchon](http://icpc-sinchon.github.io/) (2020.7 ~ )
+- 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer  (2020.7 ~ )
 - ❄️ [DSC Sookmyung](https://www.facebook.com/dscsookmyung/) Core Member (2020.9 ~ )
 
 ### Projects
