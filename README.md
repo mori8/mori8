@@ -28,5 +28,6 @@
 </a>
 
 ### Solved.ac Tier
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ccoco&cache=c">
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ccoco&cache=c">
+</p>
