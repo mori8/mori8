@@ -8,7 +8,7 @@
 - 🧐 My personal blog: https://cocosy.tistory.com
 
 
-### Activity
+### Activities
 
 - 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer  (2020.7 ~ )
 - ❄️ [DSC Sookmyung](https://www.facebook.com/dscsookmyung/) Core Member (2020.9 ~ )
