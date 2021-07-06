@@ -8,7 +8,7 @@
 - 🧐 My personal blog: https://cocosy.tistory.com
 
 
-### Activities
+### Experiences
 
 - 🧬 [Bioinformatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ )
 - 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer  (2020.7 ~ )
