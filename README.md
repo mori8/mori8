@@ -10,7 +10,7 @@
 
 ### Experiences
 
-- 🧬 [Bioinformatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ )
+- 🧬 [Bioinformatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ 2021.7)
 - 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer  (2020.7 ~ )
 - ❄️ [DSC Sookmyung](https://www.facebook.com/dscsookmyung/) Core Member (2020.9 ~ )
 - 🎖 Member of ALGOS(Sookmyung ICPC Club) (2020.4 ~ )
