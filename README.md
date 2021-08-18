@@ -2,7 +2,7 @@
 
 ## 🍒 Hi! I'm Suyeon [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmori8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🌱 I’m currently learning `React`, `Deep Learning`, `iOS`
+- 🌱 I’m currently learning `React`, `Deep Learning`, `NLP`
 - 👩🏻‍🎓 I'm majoring in Computer Science, at Sookmyung Women's University
 - 📫 How to reach me: kaithape@gmail.com
 - 🧐 My personal blog: https://cocosy.tistory.com
@@ -10,9 +10,10 @@
 
 ### Experiences
 
-- 🧬 [Bioinformatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ 2021.7)
-- 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer  (2020.7 ~ )
-- ❄️ [DSC Sookmyung](https://www.facebook.com/dscsookmyung/) Core Member (2020.9 ~ )
+- ❄️ [GDSC Sookmyung](https://www.facebook.com/dscsookmyung/) Lead (2020.8 ~ )
+- 🧬 [SMWU Bioinformatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ 2021.7)
+- 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer (2020.7 ~ )
+- ❄️ [GDSC Sookmyung](https://www.facebook.com/dscsookmyung/) Core Member (2020.9 ~ 2020.8)
 - 🎖 Member of ALGOS(Sookmyung ICPC Club) (2020.4 ~ )
 - 🐧 Vice President of [SOLUX](https://sm-solux.github.io/) (2020.3 ~ 2021.2)
 
