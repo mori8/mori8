@@ -13,7 +13,6 @@
 - ❄️ [GDSC Sookmyung](https://www.facebook.com/dscsookmyung/) Lead (2021.8 ~ )
 - 💚 [ICPC Sinchon](http://icpc-sinchon.github.io/) Organizer (2020.7 ~ 2021.8)
 - ❄️ [GDSC Sookmyung](https://www.facebook.com/dscsookmyung/) Core Member (2020.9 ~ 2021.7)
-- 🧬 [SMWU Bioinformatics Lab](http://bioinfo.sookmyung.ac.kr/) Intern (2021.6 ~ 2021.7)
 - 🎖 Member of ALGOS(Sookmyung ICPC Club) (2020.4 ~ )
 - 🐧 Vice President of [SOLUX](https://sm-solux.github.io/) (2020.3 ~ 2021.2)
 
