@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient"><br/>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/Yd5jSXK/rirakuma-psa.png" alt="rirakuma-psa" width="128px" border="0"></a>
 </p>
 
