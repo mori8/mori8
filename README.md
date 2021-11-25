@@ -32,3 +32,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp
 </p>
 
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=ccoco&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=ccoco&theme=warm"/>
+</p>
