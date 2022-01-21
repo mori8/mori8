@@ -20,20 +20,22 @@
 
 <h3 align="center"><b>Skills</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> &nbsp
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> &nbsp
+  <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp
+</p>
 <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp
+<p align="center">
+  <img src="https://uc67a17ec82706d8fd326d8e3eb2.previews.dropboxusercontent.com/p/thumb/ABZFW-n-tlhiWZ4cujlHQjUdiSEcvYzlD6pHI2Jo5m5A5edEt63UnFclk6BrYtE_AKAGxVF3alnWYEnlR4fBLMOfYAFJdyALYtRcvS57bmEDfjVBcuvUmI6D5CE5IW8fIVBI1krOadHTvNIGtM-voeFjFvmEppv0wEMVRh_AG8eUb4paY42i_qy0_52zbnI-lWazdNxcIOyijB7rN--y7yEP1vQw9FmA0StHiYUvo9XiwbHFvmcikybBGzG4ZPmhTiYa32fxXAFJj9fG8ID5-DJypXIuNXCyb7uLnkL2ZJcg0MOdjIEhSmsmuD08D7XlwMwfBPNDwP4xj7ZmtuDq5qPa5xForo9qE8-5pfbr3LA4GXUbFn6_npBm2RbKTgn9nco/p.png" width="120px">
 </p>
 
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=ccoco&theme=warm"/>
-  <img src="http://mazandi.herokuapp.com/api?handle=ccoco&theme=warm"/>
-</p>
+
