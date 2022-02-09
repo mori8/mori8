@@ -33,9 +33,4 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp
 </p>
-<br/>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ccoco"><img src="https://uc67a17ec82706d8fd326d8e3eb2.previews.dropboxusercontent.com/p/thumb/ABZFW-n-tlhiWZ4cujlHQjUdiSEcvYzlD6pHI2Jo5m5A5edEt63UnFclk6BrYtE_AKAGxVF3alnWYEnlR4fBLMOfYAFJdyALYtRcvS57bmEDfjVBcuvUmI6D5CE5IW8fIVBI1krOadHTvNIGtM-voeFjFvmEppv0wEMVRh_AG8eUb4paY42i_qy0_52zbnI-lWazdNxcIOyijB7rN--y7yEP1vQw9FmA0StHiYUvo9XiwbHFvmcikybBGzG4ZPmhTiYa32fxXAFJj9fG8ID5-DJypXIuNXCyb7uLnkL2ZJcg0MOdjIEhSmsmuD08D7XlwMwfBPNDwP4xj7ZmtuDq5qPa5xForo9qE8-5pfbr3LA4GXUbFn6_npBm2RbKTgn9nco/p.png" width="120px"></a>
-</p>
-
 
