@@ -7,7 +7,7 @@
 <p align="center">
   Hi :3 I'm <b>Suyeon</b>. I'm Google Developer Student Clubs Lead @ Sookmyung Women's University. <br/>
   I'm majoring in Computer Science, <br/>
-  and I'm interested in <b>Artificial Intelligence</b>, <b>Natural Language Processing</b> and <b>Front-end Development</b>. <br/>
+  and interested in <b>Artificial Intelligence</b>, <b>Natural Language Processing</b> and <b>Front-end Development</b>. <br/>
   Feel free to contact me! 😉
 </p>
 
