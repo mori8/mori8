@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  Hi :3 I'm <b>Suyeon</b>. I'm majoring in Computer Science, <br/>
-  and interested in <b>Human-AI Interaction</b>, <b>Natural Language Processing</b> and <b>Front-end Development</b>. <br/>
+  Hi :3 I'm <b>Suyeon</b>. I'm a Master's student at ID KAIST <br/>
+  and interested in <b>Human-AI Interaction</b>, <b>LLMs</b> and <b>Front-end Development</b>. <br/>
   Feel free to contact me! 😉
 </p>
 
