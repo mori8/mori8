@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  Hi :3 I'm <b>Suyeon</b>.
+  Hi :3 I'm <b>Sooyohn</b>.
+  I'm interested in Human-Computer Interaction and Fintech UX. I work on the [NAMUH Max](https://max.mynamuh.com) team at NH Investment & Securities.
   Feel free to contact me! 😉
 </p>
 
